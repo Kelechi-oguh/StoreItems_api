@@ -1,0 +1,5 @@
+sqlite_intro.py
+.vscode
+*.pyc
+__pycache__/
+venv/
